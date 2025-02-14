@@ -21,4 +21,4 @@ The Exchange-Rate-Calculator is a simple web application that allows users to co
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Exchange-Rate-Calculator.git
+   git clone https://github.com/Ahm3d0x/Exchange-Rate-Calculator.git
